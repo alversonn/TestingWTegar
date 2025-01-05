@@ -1,1 +1,1 @@
-urng mh ngisian ieu hungkul
+urng mh ngisian ieu hungkul + setelah pull
